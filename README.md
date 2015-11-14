@@ -4,6 +4,7 @@ Random assortment
 LOW-LEVEL
 
 1) Contiki - Open Source embedded OS with networking, memlib, unix style shell and ported on most commercial h/w
+2) Other similar ones for wireless networks TinyOS, LiteOS.
 
 
 BACKEND
