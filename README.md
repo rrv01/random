@@ -5,7 +5,7 @@ LOW-LEVEL
 
 1) Contiki - Open Source embedded OS with networking, memlib, unix style shell and ported on most commercial h/w
 2) Other similar ones for wireless networks TinyOS, LiteOS.
-
+3) Linux Containers
 
 BACKEND
 
@@ -14,6 +14,7 @@ BACKEND
 3) Kubernetes
 4) YAML
 5) REST - extends HTML
+6) MESOS
 
 Microsoft OXFORD
 1) License Limit
