@@ -18,3 +18,7 @@ BACKEND
 
 Microsoft OXFORD
 1) License Limit
+
+Machine Learning:
+-- Frameworks
+      Caff, Theano, Torch.
